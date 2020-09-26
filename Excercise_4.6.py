@@ -17,3 +17,4 @@ r = input("Enter rate:")
 
 p = computepay(hrs,r)
 print("Pay",p)
+
